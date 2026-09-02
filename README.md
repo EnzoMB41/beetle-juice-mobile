@@ -12,7 +12,7 @@
 
 # Sumário
 
-## Dados do filme
+# Informações
 
 - **Título:** Os Fantasmas se Divertem
 - **Título original:** *Beetlejuice*
