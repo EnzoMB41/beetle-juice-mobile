@@ -6,7 +6,7 @@
 ---
 
 # Tema
-## Guia de "Os fantasmas se divertem (1998)"
+## Aplicativo Guia para o filme: "Os fantasmas se divertem (1998)"
 
 ---
 
