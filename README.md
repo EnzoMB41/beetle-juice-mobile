@@ -1,7 +1,7 @@
 # Integrantes
 
-### - Enzo Miranda
-### - Henrique Tomazini
+- Enzo Miranda
+- Henrique Tomazini
 
 ---
 
