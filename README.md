@@ -1,1 +1,3 @@
-# beetle-juice-mobile
+# Integrantes
+### Enzo Miranda
+### Henrique Tomazini
