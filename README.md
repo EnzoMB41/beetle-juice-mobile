@@ -2,6 +2,6 @@
 ### Enzo Miranda
 ### Henrique Tomazini
 
---
+-
 
-## Tema: Guia para o filme
+## Tema: Guia de "Os fantasmas se divertem (1998)"
