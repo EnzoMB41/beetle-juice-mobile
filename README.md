@@ -12,8 +12,8 @@
 
 # Sumário Wiki
 
-https://github.com/EnzoMB41/beetle-juice-mobile/wiki
+[Home](https://github.com/EnzoMB41/beetle-juice-mobile/wiki)
 
-https://github.com/EnzoMB41/beetle-juice-mobile/wiki/Dados-sobre-o-filme-Os-fantasmas-se-divertem-(1988)
+[Dados sobre o Filme](https://github.com/EnzoMB41/beetle-juice-mobile/wiki/Dados-sobre-o-filme-Os-fantasmas-se-divertem-(1988))
 
-https://github.com/EnzoMB41/beetle-juice-mobile/wiki/Prot%C3%B3tipo-do-Aplicativo
+[Protótipo](https://github.com/EnzoMB41/beetle-juice-mobile/wiki/Prot%C3%B3tipo-do-Aplicativo)
