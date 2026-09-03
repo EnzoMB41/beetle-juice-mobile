@@ -1,8 +1,7 @@
 # Integrantes
 
-- Enzo Miranda
-- Henrique Tomazini
-
+- Enzo Miranda Bezerra
+- Henrique de Morais Tomazini
 ---
 
 # Tema
