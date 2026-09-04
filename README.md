@@ -5,7 +5,7 @@
 ---
 
 # Tema
-## Aplicativo Guia para o filme: "Os fantasmas se divertem (1998)"
+## Aplicativo Guia para o filme: "Os fantasmas se divertem de 1998 (beetlejuice)"
 
 ---
 
